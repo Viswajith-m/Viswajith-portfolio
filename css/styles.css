@@ -11,3 +11,13 @@ body{
 .py-5{
     background-color: rgb(226, 219, 219);
 }
+
+.skills-padding{
+    padding: 70px 0;
+}
+
+@media(max-width: 526px){
+    .banner{
+        padding: 100px 0;
+    }
+}
