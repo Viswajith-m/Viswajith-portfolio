@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins',sans-serif;
+}
+
+.banner{
+    background-image: url(/Portfolio/imgs/portfoliobg1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 265px;
+}
+.py-5{
+    background-color: rgb(226, 219, 219);
+}
