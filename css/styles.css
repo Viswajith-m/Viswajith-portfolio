@@ -21,3 +21,15 @@ body{
         padding: 100px 0;
     }
 }
+.social-icon {
+    font-size: 1.5cm; 
+    margin: 0 10px;
+}
+
+i{
+    padding: 15px;
+    
+}
+.pb-4{
+    text-emphasis-color: white;
+}
