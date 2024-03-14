@@ -13,7 +13,7 @@ body{
 }
 
 .skills-padding{
-    padding: 70px 0;
+    padding: 7px 0;
 }
 
 @media(max-width: 526px){
@@ -22,12 +22,12 @@ body{
     }
 }
 .social-icon {
-    font-size: 1.5cm; 
-    margin: 0 10px;
+    font-size: 1.3cm; 
+    margin: 10px;
 }
 
 i{
-    padding: 15px;
+    padding: 10px;
     
 }
 .pb-4{
